@@ -1,0 +1,26 @@
+{
+  "name": "LiriBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhrumilpatel47/LiriBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhrumilpatel47/LiriBot/issues"
+  },
+  "homepage": "https://github.com/dhrumilpatel47/LiriBot#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.88.0",
+    "twitter": "^1.7.1"
+  }
+}
